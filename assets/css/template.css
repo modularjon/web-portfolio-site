@@ -32,7 +32,7 @@ iframe{
 .sidebar{
 	position:fixed;
 	width:300px;
-	background-color:#111;
+	background-color:#262626;
 	height:100%;
 	top:0;
 	left:0;
@@ -88,7 +88,11 @@ iframe{
 	}
 
 	.sidebar .copyright{
-		display:none;
+		position: absolute;
+		float: none;
+		top: 20px;
+		left: 250px;
+		width: 400px;
 	}
 
 	.wrapper{
