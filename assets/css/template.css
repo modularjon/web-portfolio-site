@@ -1660,7 +1660,7 @@ blockquote cite{
 .work-category{
 	font-style:italic;
 	font-weight:400;
-	font-size:12px;
+	font-size:18px;
 	opacity:0;
 	margin:0;
 	-webkit-transform:translateY(-10px);
@@ -1674,7 +1674,7 @@ blockquote cite{
 }
 
 .work-category a{
-	color:#999;
+	color:#000;
 }
 
 .work-item:hover .work-category{
